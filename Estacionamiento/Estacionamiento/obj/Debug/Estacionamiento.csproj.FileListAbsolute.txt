@@ -1,0 +1,11 @@
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.config
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Main.resources
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.Properties.Resources.resources
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.GenerateResource.cache
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\Ejercicios_en_.Net\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe.config

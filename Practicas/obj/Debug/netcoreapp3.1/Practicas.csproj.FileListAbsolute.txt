@@ -1,0 +1,14 @@
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\bin\Debug\netcoreapp3.1\Practicas.exe
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\bin\Debug\netcoreapp3.1\Practicas.deps.json
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\bin\Debug\netcoreapp3.1\Practicas.runtimeconfig.json
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\bin\Debug\netcoreapp3.1\Practicas.runtimeconfig.dev.json
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\bin\Debug\netcoreapp3.1\Practicas.dll
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\bin\Debug\netcoreapp3.1\Practicas.pdb
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\obj\Debug\netcoreapp3.1\Practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\obj\Debug\netcoreapp3.1\Practicas.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\obj\Debug\netcoreapp3.1\Practicas.AssemblyInfo.cs
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\obj\Debug\netcoreapp3.1\Practicas.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\obj\Debug\netcoreapp3.1\Practicas.dll
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\obj\Debug\netcoreapp3.1\Practicas.pdb
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\obj\Debug\netcoreapp3.1\Practicas.genruntimeconfig.cache
+C:\Users\pablo\Documents\GitHub\Patrones_Programacion_Practica\Practicas\obj\Debug\netcoreapp3.1\Practicas.csproj.AssemblyReference.cache
